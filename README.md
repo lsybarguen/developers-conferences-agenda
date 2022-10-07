@@ -106,6 +106,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 14-15: [DevOpsDays Tel-Aviv](https://sessionize.com/devopsdays-tel-aviv-2022/) - Tel-Aviv <a href="https://sessionize.com/devopsdays-tel-aviv-2022/"><img alt="DevOpsDays Tel-Aviv" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2022&color=green"> </a>
 * 14-16: [API Days Paris](https://www.apidays.global/paris/) - Paris (France) & Online
 * 15-16: [Agile Tour Rennes](https://agiletour.agilerennes.org/) - Rennes (France) <a href="https://sessionize.com/agile-tour-rennes-2022/"><img alt="Agile Tour Rennes" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2022&color=green"> </a>
+* 15-16: [Wey Wey Web](https://weyweyweb.com/) - Malaga (Spain) <a href="https://www.papercall.io/weyweyweb1"><img alt="Wey Wey Web" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-November-2022&color=green"> </a>
 
 ## 2023
 
@@ -137,7 +138,9 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 ### May
 * ??: [Codecamp_Festival](https://codecamp.ro/the-festival-book-now/) - Bucharest, Romania
+* 10-12: [J On The Beach](https://jonthebeach.com/) - Malaga (Spain) <a href="https://www.papercall.io/jotb23"><img alt="CFP JOTB23" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-January-2023&color=green"> </a>
 * 23: [VoxxedDays Brussels](https://brussels.voxxeddays.com/) - Brussels (Belgium)
+
 
 ### June
 
